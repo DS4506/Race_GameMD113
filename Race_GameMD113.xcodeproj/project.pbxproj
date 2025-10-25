@@ -256,6 +256,8 @@
 				DEVELOPMENT_TEAM = A3PF3W86P6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Race-GameMD113-Info.plist";
+				INFOPLIST_KEY_NSMotionUsageDescription = "This app uses motion data to track steps, distance, acceleration, and rotation.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -288,6 +290,8 @@
 				DEVELOPMENT_TEAM = A3PF3W86P6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Race-GameMD113-Info.plist";
+				INFOPLIST_KEY_NSMotionUsageDescription = "This app uses motion data to track steps, distance, acceleration, and rotation.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
